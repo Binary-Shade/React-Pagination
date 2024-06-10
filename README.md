@@ -2,6 +2,10 @@
 
 Welcome to the React + Vite project! This project demonstrates a simple yet powerful implementation of pagination and filtering options for a data set. Below you'll find everything you need to get started and understand the core features of this application.
 
+## Screenshot
+
+![image](https://github.com/Binary-Shade/React-Pagination/assets/115919438/effa8507-bac5-4b93-ae14-2521e55e9a22)
+
 ## Table of Contents
 
 1. [Installation](#installation)
